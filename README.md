@@ -23,6 +23,6 @@ To use the real-time digit recognition system, follow these steps:
 3. Upload an image of a handwritten digit.
 4. The system will process the image and predict the digit with high accuracy.
 
-## 📝 Developed by [Dhanyadha]
+## 📝 Developed by Dhanyadha
 
 
