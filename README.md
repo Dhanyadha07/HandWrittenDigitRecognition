@@ -19,7 +19,7 @@ This project is designed to recognize handwritten digits using advanced image pr
 ## 👨‍💻 Usage
 To use the real-time digit recognition system, follow these steps:
 1. Run the `HW.ipynb` file.
-2. Run `app.py` to open the graphical interface(in bash run (streamlit run app.py).
+2. Run `app.py` to open the graphical interface(in bash, run `streamlit run app.py`).
 3. Upload an image of a handwritten digit.
 4. The system will process the image and predict the digit with high accuracy.
 
